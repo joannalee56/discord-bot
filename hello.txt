@@ -1,0 +1,6 @@
+Hello, how are you doing?
+Would you like to grab coffee?
+Would you like to meet me?
+Would you like to get dinner?
+Would you like to eat?
+Goodbye!
